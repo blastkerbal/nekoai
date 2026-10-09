@@ -11,7 +11,7 @@ Open [config.json](file:///home/gabriel/catgirl-converter/config.json) and repla
 ```json
 {
   "gemini_api_key": "YOUR_ACTUAL_GEMINI_API_KEY",
-  "model": "gemini-2.5-flash",
+  "model": "gemini-3.5-flash-lite",
   "temperature": 0.85,
   "default_vibe": "kawaii",
   "auto_copy_clipboard": false
